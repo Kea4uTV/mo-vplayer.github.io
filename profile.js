@@ -1,4 +1,4 @@
-import { playAnimationFromStart } from './animation.js'
+import { playAnimationFromStart } from 'https://kea4utv.github.io/mo-vplayer.github.io/animation.js'
 
 /**
  * Profile class, with the profile image, and a name
