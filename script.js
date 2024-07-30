@@ -1,6 +1,6 @@
-import {Profile, updateProfileDiv} from './profile.js';
-import {playAnimationFromStart, drawFrame, AnimationSettings, addAlpha} from './animation.js';
-import {ChatMessage} from './chatMessage.js';
+import {Profile, updateProfileDiv} from 'https://kea4utv.github.io/mo-vplayer.github.io/profile.js';
+import {playAnimationFromStart, drawFrame, AnimationSettings, addAlpha} from 'https://kea4utv.github.io/mo-vplayer.github.io/animation.js';
+import {ChatMessage} from 'https://kea4utv.github.io/mo-vplayer.github.io/chatMessage.js';
 
 // The image/name pairs that are displayed
 var chatProfiles = [];
