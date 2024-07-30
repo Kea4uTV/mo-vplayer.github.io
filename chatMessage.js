@@ -1,5 +1,5 @@
-import {Profile} from './profile.js';
-import {AnimationSettings} from './animation.js';
+import {Profile} from 'https://kea4utv.github.io/mo-vplayer.github.io/profile.js';
+import {AnimationSettings} from 'https://kea4utv.github.io/mo-vplayer.github.io/animation.js';
 
 /**
  * A message string with associated profile
